@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💬 I’m @NotTwerp!
+- ✨ I’m interested in web and low level programming.
+- 🌱 I’m currently learning JavaScript, CSS and SwiftUI.
+
 <!--
 **NotTwerp/NotTwerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
