@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 I’m @NotTwerp!
-- ✨ I’m interested in web and low level programming.
+- ✨ I’m interested in web/app development and low level programming.
 - 🌱 I’m currently learning JavaScript, CSS and SwiftUI.
 
 <!--
